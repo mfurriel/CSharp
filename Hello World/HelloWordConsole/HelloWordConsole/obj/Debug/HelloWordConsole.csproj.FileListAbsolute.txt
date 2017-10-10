@@ -1,0 +1,7 @@
+C:\Users\mvfad\Documents\GitHub\CSharp\Hello World\HelloWordConsole\HelloWordConsole\bin\Debug\HelloWordConsole.exe.config
+C:\Users\mvfad\Documents\GitHub\CSharp\Hello World\HelloWordConsole\HelloWordConsole\bin\Debug\HelloWordConsole.exe
+C:\Users\mvfad\Documents\GitHub\CSharp\Hello World\HelloWordConsole\HelloWordConsole\bin\Debug\HelloWordConsole.pdb
+C:\Users\mvfad\Documents\GitHub\CSharp\Hello World\HelloWordConsole\HelloWordConsole\obj\Debug\HelloWordConsole.csprojResolveAssemblyReference.cache
+C:\Users\mvfad\Documents\GitHub\CSharp\Hello World\HelloWordConsole\HelloWordConsole\obj\Debug\HelloWordConsole.csproj.CoreCompileInputs.cache
+C:\Users\mvfad\Documents\GitHub\CSharp\Hello World\HelloWordConsole\HelloWordConsole\obj\Debug\HelloWordConsole.exe
+C:\Users\mvfad\Documents\GitHub\CSharp\Hello World\HelloWordConsole\HelloWordConsole\obj\Debug\HelloWordConsole.pdb
