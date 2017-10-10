@@ -50,7 +50,8 @@ namespace CalculaIdade
                 idade--;
             }
 
-            Console.WriteLine("Sua idade é " + idade + " anos");
+            Console.WriteLine("Sua idade é {0} anos", idade);
+            // Console.WriteLine("Sua idade é " + idade + " anos"); ambos funcionam. 
             Console.ReadLine();
 
         }
