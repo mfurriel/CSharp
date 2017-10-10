@@ -1,0 +1,6 @@
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\InteracaoUsuarioCMD\bin\Debug\InteracaoUsuarioCMD.exe.config
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\InteracaoUsuarioCMD\bin\Debug\InteracaoUsuarioCMD.exe
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\InteracaoUsuarioCMD\bin\Debug\InteracaoUsuarioCMD.pdb
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\InteracaoUsuarioCMD\obj\Debug\InteracaoUsuarioCMD.csproj.CoreCompileInputs.cache
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\InteracaoUsuarioCMD\obj\Debug\InteracaoUsuarioCMD.exe
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\InteracaoUsuarioCMD\obj\Debug\InteracaoUsuarioCMD.pdb

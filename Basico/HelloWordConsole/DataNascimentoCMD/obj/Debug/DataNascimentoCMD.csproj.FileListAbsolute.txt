@@ -1,0 +1,7 @@
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\DataNascimentoCMD\bin\Debug\DataNascimentoCMD.exe.config
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\DataNascimentoCMD\bin\Debug\DataNascimentoCMD.exe
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\DataNascimentoCMD\bin\Debug\DataNascimentoCMD.pdb
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\DataNascimentoCMD\obj\Debug\DataNascimentoCMD.csprojResolveAssemblyReference.cache
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\DataNascimentoCMD\obj\Debug\DataNascimentoCMD.csproj.CoreCompileInputs.cache
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\DataNascimentoCMD\obj\Debug\DataNascimentoCMD.exe
+C:\Users\mvfad\Documents\GitHub\CSharp\Basico\HelloWordConsole\DataNascimentoCMD\obj\Debug\DataNascimentoCMD.pdb
